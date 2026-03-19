@@ -1,0 +1,13 @@
+packages:
+  "framer-motion": "For page transitions and interactive animations"
+  "date-fns": "For clean date formatting in the UI"
+  "react-hook-form": "For robust form state management"
+  "@hookform/resolvers": "For Zod schema validation integration"
+  "clsx": "For conditional class names"
+  "tailwind-merge": "For merging tailwind classes safely"
+
+images: []
+
+notes:
+  - "Importing API hooks directly from @workspace/api-client-react"
+  - "Forms use string dates (YYYY-MM-DD) to match the API schema expectations"
